@@ -63,18 +63,6 @@ I'm driven by curiosity and love exploring real-world applications of technology
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrOscuroBlck&theme=dark&hide_border=false" alt="GitHub Streak" width="48%">
 </p>
 
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
-</p>
-
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SrOscuroBlck&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</p>
-
 ---
 
 <p align="center">
